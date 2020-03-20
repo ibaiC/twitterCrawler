@@ -1,0 +1,22 @@
+Top 10 Hashtags of each cluster: 
+Cluster 1: {'insurance', 'Wuhan'}
+Cluster 2: {'findingjoyinthis', 'coronavirus'}
+Cluster 3: {'coronavirus', 'ResignNow', 'Staffordshire', 'Givethanks', 'COVID19', 'SocialDistancing', 'COVID19ON'}
+Cluster 4: set()
+Cluster 5: set()
+Cluster 6: {'Coronavirus', 'COVID19india', 'Election2020', 'coronavirus'}
+Cluster 7: {'ArmedForces', 'Covid19', 'coronavirus', 'Coronavirus', 'r4today', 'JustIn', 'CoronavirusOutbreakindia', 'covid19', 'China', 'Microsoft'}
+Cluster 8: {'KanikaKapoor', 'Oliverscampaign', 'hihonews', 'Newsnight', 'Travel', 'Coronavirus', 'ShutdownNYC', 'covid19', 'China', 'COVID19'}
+Cluster 9: {'Qproof', 'Covid19', 'browardcounty', 'Denmark', 'Coronavirus', 'WorldHappinessDay', 'Breaking', 'computationalresources', 'keyworkers', 'quarantine'}
+Cluster 10: {'Wuhan', 'KashmirLockedWorldLocked', 'Covid19InSA', 'coronavirus'}
+Cluster 11: {'BeBest', 'systemsthinking', 'Africa', 'CoronavirusOutbreak', 'Coronavirus', 'protectimmigrantfamilies', 'covid19UK', 'insidertrading', '10TV', 'scale'}
+Cluster 12: {'G20', 'coronavirus', 'Shallow', 'Coronavirus', 'shelteringinplace', 'CoronaVirus', 'Easyjet', 'aintthatfunnythough', 'Bollywood', 'IndianTravelIndustry'}
+Cluster 13: {'Coronavirus', 'FlaPol', 'Covid_19', 'CoronaVirusUpdate', 'covir19'}
+Cluster 14: {'stayathome', 'Bernie2020', 'business', 'AusgangsSperreJetzt', 'RNCC', 'coronavirus', '5daysforCOVID19', 'News', 'kanikakapoor', 'TrumpLiedPeopleDied'}
+Cluster 15: {'prediction', 'coronavirus', 'US', 'NFLDraft', 'stock', 'runforyourlife', 'RussiaHoax'}
+Cluster 16: {'VirusVultures', 'coronavirus', 'ShaheenBaghProtests', 'Coronavirus', 'covid19UK', 'Ethiopia', 'VenusChronicles', 'FOXBoard'}
+Cluster 17: {'ChinaLiedPeopleDied', 'coronavirus', 'Hackers', 'Betsygate', 'JantaCurfew', 'FactCheck', 'COVID19'}
+Cluster 18: {'Pence', 'Coronavirus', 'WirvsVirus', '7DaysToGo', 'CoronaVirus', 'StaySafeHelpOthers', 'COViD19'}
+Cluster 19: {'video', 'KanikaKapoor', 'TrumpResignNOW', 'GoPies', 'FOX59Morning', 'Coronavirus', 'Italy', 'BoycottAmazon', 'Tech', 'ClimateStrikeOnline'}
+Cluster 20: {'SteveRogers', 'thecoronasong'}
+Cluster 21: {'CoronavirusinSA', 'CoronaCrisis', 'SriLanka', 'coronavirus', 'Coronavirus', 'Space_News', 'Hydroxychloroquine', 'AI', 'KashmirLockedWorldLocked', 'FoxNews'}
